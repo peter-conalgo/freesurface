@@ -60,8 +60,9 @@ Credits should not be looked as something that is required to point the original
 more of a tool for you to track down the original evolution of the idea or maybe you could say meme.
 
 The idea for this approach to the project was inspired by [pullup](https://github.com/larvalabs/pullup).
-It's just a baby, so jump on board and get your ideas in.  Tracing back a little more, their idea was
+It's just a baby, so jump on board and get your ideas in.  Tracing back a little more, that idea was
 rooted from a cool Node.js boilerplate called [Hackathon Starter](https://github.com/sahat/hackathon-starter).
-Currenlty at free surface we are really into projects that help everyone get off their feet with code
-and in the right direction.  So thanks to folks who find satisfaction in those things.
+It's a great way to get a bunch of hackers running at the same time to get their ideas out all at once.
+Currenlty at Free Surface we are really into projects that help everyone get off their feet with code
+and in the right direction. So thanks to folks who find satisfaction in those things.
 
