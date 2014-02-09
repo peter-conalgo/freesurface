@@ -21,3 +21,37 @@ This very phenomenon needs to be applied to all the other industries  where smar
 Unfortunately the current controlling generation have very little life experience to see the true value of this.  They see the idea of not making proprietary rights your first objective as misguided.  After a lifetime in an economy where your objective is to turn any possible thing you can into money, it makes sense.  
 
 Patents need to go away and the government needs to step back and let the new generation use the momentum of these movements to create and shape the future.  If an advancement is made, it should be available to benefit any other initiative, and it should happen at the speed of light.  Progress should rise much like the oceans, creating a free surface where all can continue to find satisfaction and a real feeling of self worth.
+
+### What if I have no idea how to do anything but read this, and I want to do more??
+
+Hmmmmmm... that is a very good hypothetical made up question. I would say that you email
+as at info@freesurface.org. Ideally we get some people who write code, to start making 
+something that lets people who just want add their ideas do so in an intuitive way and 
+with algorithyms that maintain solid democracy. At the same time it would also need to 
+promote optimistic ideas. A little bit of work to do there, but something like reddit 
+is a pretty good model for it.
+
+### How do I learn how to code if I never had before?
+
+Hmmmmmm... that is a very good hypothetical made up question. I would say that you email
+as at info@freesurface.org. Ideally we get some people who write code, to start making 
+something that lets people who just want add their ideas do so in an intuitive way and 
+with algorithms that maintain solid democracy. At the same time it would also need to 
+promote optimistic ideas. A little bit of work to do there, but something like reddit 
+is a pretty good model for it.
+
+We would say that anyone can write code, they just need to be fond of logical thought.  There
+is also a way of thinking that is important to get in the habit of before you start 
+trying to write a line of code. It's all based around the concepts of binary and ternary logic. 
+The thing is that you don't need to understand what that means, you just have to do things that 
+form your ability to see problems under that sort of pretence.
+
+We would suggest a wonderful experiment that was created at [MIT Media Lab](http://www.media.mit.edu/)
+called [Scratch](http://scratch.mit.edu/). Beware, this is for children so keep it in a non shared 
+state and let the kids have their own community and time to create an unbiased future for us. It is
+all designed to help kids explore these concepts and turn them into things.  It's like digital lego
+more or less. We always hear of people moving to new countries and learning new languages through
+children's literature.  Same idea!
+
+As a second BEWARE, we have not yet done research to ensure that there is a private state, so
+make sure that is true before you start using dirty words for variable names.
