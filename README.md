@@ -54,6 +54,13 @@ children's literature.  Same idea!
 As a second BEWARE, we have not yet done research to ensure that there is a private state, so
 make sure that is true before you start using dirty words for variable names.
 
+### Does Free Surface have anything on the go?
+
+Yup, it's called [StackStrap](https://github.com/freesurface/stackstrap). It's for developers
+in small teams who build projects frequently and need a good way to tie best practices into
+their workflow. Always looking for anyone at all to try it out and see if the philosophy can
+hold up at their workplace. Needless to say, contributions are welcome.
+
 ### Credits
 
 Credits should not be looked as something that is required to point the original brain child. It's
