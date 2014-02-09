@@ -65,6 +65,8 @@ hold up at their workplace. Needless to say, contributions are welcome.
 
 Credits should not be looked as something that is required to point the original brain child. It's
 more of a tool for you to track down the original evolution of the idea or maybe you could say meme.
+Context helps a lot, and you can learn a lot if you follow  how a tool found it's way to it's 
+current state.
 
 The idea for this approach to the project was inspired by [pullup](https://github.com/larvalabs/pullup).
 It's just a baby, so jump on board and get your ideas in.  Tracing back a little more, that idea was
