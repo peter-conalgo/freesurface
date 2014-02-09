@@ -1,9 +1,4 @@
-### If you have ideas about what freesurface can be, add them here.
-
-There is a link to the right where you can make an issue.  Just brain
-dump your ideas about how you think something like this could succeed.
-
-### What is the idea?
+# What is the idea?
 
 People born between  the 70s - 90s have been brought into a world where too many of our brightest feel disenfranchised and struggle to see a future for themselves.  People born between the 40s - 60s are from a time where anyone who worked hard could find their way into a commodity that they could capitalize on. It's the thing that could universally provide satisfaction to anyone looking realize their potential.
 
@@ -37,6 +32,14 @@ to go through the process of creating a non profit and researching how to get
 a charitable status.  The next step is to find a business or industry that would 
 like to invest in an initiative that targets their talent and their best interests. The
 business wins because they get a chance at more inovation and a more satisfied workforce.
+
+### How can I help?
+Start making github issues with what ever your brain can come up wit. Ideally we get 
+some people who write code, to start making something that lets people who just want 
+add their ideas do so in an intuitive way and with algorithms that maintain solid democracy. 
+At the same time it would also need topromote optimistic ideas that line up to whatever 
+objective there may be at the time. A little bit of work to do there, but something like 
+reddit is a pretty good model for it.
 
 ### What if I have no idea how to do anything but read this, and I want to do more??
 
