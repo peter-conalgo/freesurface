@@ -1,5 +1,10 @@
 ### If you have ideas about what freesurface can be, add them here.
 
+There is a link to the right where you can make an issue.  Just brain
+dump your ideas about how you think something like this could succeed.
+
+### What is the idea?
+
 People born between  the 70s - 90s have been brought into a world where too many of our brightest feel disenfranchised and struggle to see a future for themselves.  People born between the 40s - 60s are from a time where anyone who worked hard could find their way into a commodity that they could capitalize on. It's the thing that could universally provide satisfaction to anyone looking realize their potential.
 
 Today every commodity on earth is spoken for by a small number of corporations and every logical thought has a patent against it.  How do we reasonably expect the current system to provide opportunity to future generations.  More over, what really is opportunity?  What are people really seeking?  Looking at all the different states of mind, the one we chase the most is the sense of satisfaction.
