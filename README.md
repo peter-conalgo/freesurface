@@ -27,18 +27,11 @@ Patents need to go away and the government needs to step back and let the new ge
 Hmmmmmm... that is a very good hypothetical made up question. I would say that you email
 as at info@freesurface.org. Ideally we get some people who write code, to start making 
 something that lets people who just want add their ideas do so in an intuitive way and 
-with algorithyms that maintain solid democracy. At the same time it would also need to 
-promote optimistic ideas. A little bit of work to do there, but something like reddit 
-is a pretty good model for it.
-
-### How do I learn how to code if I never had before?
-
-Hmmmmmm... that is a very good hypothetical made up question. I would say that you email
-as at info@freesurface.org. Ideally we get some people who write code, to start making 
-something that lets people who just want add their ideas do so in an intuitive way and 
 with algorithms that maintain solid democracy. At the same time it would also need to 
 promote optimistic ideas that line up to whatever objective there may be at the time. 
 A little bit of work to do there, but something like reddit is a pretty good model for it.
+
+### How do I learn how to code if I never had before?
 
 We would say that anyone can write code, they just need to be fond of logical thought.  There
 is also a way of thinking that is important to get in the habit of before you start 
