@@ -45,11 +45,7 @@ reddit is a pretty good model for it.
 
 Hmmmmmm... that is a very good hypothetical made up question. As mentioned above you could 
 make an issue, but that means that you need a github account.  If you just want to email
-us, you do so at info@freesurface.org. Ideally we get some people who write code, to start making 
-something that lets people who just want add their ideas do so in an intuitive way and 
-with algorithms that maintain solid democracy. At the same time it would also need to 
-promote optimistic ideas that line up to whatever objective there may be at the time. 
-A little bit of work to do there, but something like reddit is a pretty good model for it.
+us, you do so at info@freesurface.org.
 
 ### How do I learn how to code if I never had before?
 
