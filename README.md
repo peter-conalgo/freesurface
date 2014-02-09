@@ -53,3 +53,15 @@ children's literature.  Same idea!
 
 As a second BEWARE, we have not yet done research to ensure that there is a private state, so
 make sure that is true before you start using dirty words for variable names.
+
+### Credits
+
+Credits should not be looked as something that is required to point the original brain child. It's
+more of a tool for you to track down the original evolution of the idea or maybe you could say meme.
+
+The idea for this approach to the project was inspired by [pullup](https://github.com/larvalabs/pullup).
+It's just a baby, so jump on board and get your ideas in.  Tracing back a little more, their idea was
+rooted from a cool Node.js boilerplate called [Hackathon Starter](https://github.com/sahat/hackathon-starter).
+Currenlty at free surface we are really into projects that help everyone get off their feet with code
+and in the right direction.  So thanks to folks who find satisfaction in those things.
+
