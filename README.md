@@ -18,6 +18,6 @@ The internet is dominated by open source software, and it makes complete sense a
 
 This very phenomenon needs to be applied to all the other industries  where smart people are feeling very little sense of self satisfaction.  We need to find a way to insert open source projects into other industries, get developers interested in outside projects, and get people interested in converting their time and ideas into real things.
 
-Unfortunately the current controlling generation have very little life experience to see the true value of this.  They see the idea of not making propriety rights your first objective as misguided.  After a lifetime in an economy where your objective is to turn any possible thing you can into money, it makes sense.  
+Unfortunately the current controlling generation have very little life experience to see the true value of this.  They see the idea of not making proprietary rights your first objective as misguided.  After a lifetime in an economy where your objective is to turn any possible thing you can into money, it makes sense.  
 
 Patents need to go away and the government needs to step back and let the new generation use the momentum of these movements to create and shape the future.  If an advancement is made, it should be available to benefit any other initiative, and it should happen at the speed of light.  Progress should rise much like the oceans, creating a free surface where all can continue to find satisfaction and a real feeling of self worth.
