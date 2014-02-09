@@ -34,7 +34,7 @@ like to invest in an initiative that targets their talent and their best interes
 business wins because they get a chance at more inovation and a more satisfied workforce.
 
 ### How can I help?
-Start making github issues with what ever your brain can come up wit. Ideally we get 
+Start making github issues with what ever your brain can come up with. Ideally we get 
 some people who write code, to start making something that lets people who just want 
 add their ideas do so in an intuitive way and with algorithms that maintain solid democracy. 
 At the same time it would also need topromote optimistic ideas that line up to whatever 
@@ -62,8 +62,7 @@ all designed to help kids explore these concepts and turn them into things.  It'
 more or less. We always hear of people moving to new countries and learning new languages through
 children's literature.  Same idea!
 
-As a second BEWARE, we have not yet done research to ensure that there is a private state, so
-make sure that is true before you start using dirty words for variable names.
+Shared Scratch projects include the source files to allow other 'kids' to download and extend, and we encourage you to do just this, but be mindful to avoid using profanity when naming objects in case you feel compelled to share back.
 
 ### Does Free Surface have anything on the go?
 
