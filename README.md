@@ -25,7 +25,7 @@ Patents need to go away and the government needs to step back and let the new ge
 ### What if I have no idea how to do anything but read this, and I want to do more??
 
 Hmmmmmm... that is a very good hypothetical made up question. I would say that you email
-as at info@freesurface.org. Ideally we get some people who write code, to start making 
+us at info@freesurface.org. Ideally we get some people who write code, to start making 
 something that lets people who just want add their ideas do so in an intuitive way and 
 with algorithms that maintain solid democracy. At the same time it would also need to 
 promote optimistic ideas that line up to whatever objective there may be at the time. 
