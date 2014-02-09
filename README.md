@@ -27,6 +27,17 @@ Unfortunately the current controlling generation have very little life experienc
 
 Patents need to go away and the government needs to step back and let the new generation use the momentum of these movements to create and shape the future.  If an advancement is made, it should be available to benefit any other initiative, and it should happen at the speed of light.  Progress should rise much like the oceans, creating a free surface where all can continue to find satisfaction and a real feeling of self worth.
 
+### What are the plans for Free Surface?
+
+Well the idea would be to kick of projects in a strategic way so that projects with an 
+agreeable opportunity for success are started with.  The first projects would be 
+geared towards finding tools or lack of tools that if replaced with an open 
+initiative could better those people and in effect, that industry.  The first major step is
+to go through the process of creating a non profit and researching how to get
+a charitable status.  The next step is to find a business or industry that would 
+like to invest in an initiative that targets their talent and their best interests. The
+business wins because they get a chance at more inovation and a more satisfied workforce.
+
 ### What if I have no idea how to do anything but read this, and I want to do more??
 
 Hmmmmmm... that is a very good hypothetical made up question. As mentioned above you could 
