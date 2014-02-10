@@ -65,6 +65,8 @@ It seems that the best course of action for free surface is to register as a non
 Canada.  We need legal help to accomplish this so that we can figure out if their is a 
 way to provide taxable benfits to compaines who embrace this methodology.
 
+> Legal fees can be donated at Indiegogo [here](http://www.indiegogo.com/projects/free-surface-non-profit-registration-legal-work/x/6349072?show_todos=true).
+
 ### We need Psychologists!
 
 The word satisfaction gets used quite a lot right now in this document and a rough
@@ -75,7 +77,7 @@ and focus on thier families?
 
 ### We need investment
 
-If you are company that thinks you would like to pinoneer in an area like this, let us 
+If you are company that thinks they would like to pinoneer in an area like this, let us 
 know!
 
 ### What sort of industries could this work in?
