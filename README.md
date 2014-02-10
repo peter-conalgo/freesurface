@@ -1,4 +1,4 @@
-# What is the idea?
+# A single human being expressed this one day, which led to other things, which led to this project.
 
 People born between  the 70s - 90s have been brought into a world where too many of our brightest feel disenfranchised and struggle to see a future for themselves.  People born between the 40s - 60s are from a time where anyone who worked hard could find their way into a commodity that they could capitalize on. It's the thing that could universally provide satisfaction to anyone looking realize their potential.
 
