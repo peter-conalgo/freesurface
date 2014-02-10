@@ -82,6 +82,13 @@ and focus on thier families?
 If you are company that thinks they would like to pinoneer in an area like this, let us 
 know!
 
+### We need publicity
+
+This is all well in good, but it is still just a spec among specs right now.  There is
+no valid case to say that what is written here right now if effective enough to
+get someone involved.  If anyone has any ideas about how to get more participation 
+in this, please make an issue or contact us.
+
 ### What sort of industries could this work in?
 
 As of right now, it's just a big fat guess, so we are saying ALL. I hear of a lot of
