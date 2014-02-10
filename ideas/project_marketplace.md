@@ -10,5 +10,10 @@ In this system companies could present their business problems and any individua
 or team could propose a plan to solve the problem.  Everything would always be out
 in the open so that no mistep in communication or logic would be left unseen.
 
-The system could be gamified for all parties so that it felt like a community.
+The system could be gamified for all parties so that it felt like a fun community.
+
+The system could bring interesting items to the top.
+
+The system would make all usage data public for the purpose of collective analysis. Very 
+cool UI could play in here.
 
