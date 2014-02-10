@@ -22,6 +22,14 @@ Unfortunately the current controlling generation have very little life experienc
 
 Patents need to go away and the government needs to step back and let the new generation use the momentum of these movements to create and shape the future.  If an advancement is made, it should be available to benefit any other initiative, and it should happen at the speed of light.  Progress should rise much like the oceans, creating a free surface where all can continue to find satisfaction and a real feeling of self worth.
 
+### What is up with the name?
+
+It is meant to be a metaphor when relating to the actual meaning of the event, and another methpor when 
+just looking at the words. In physics a free surface is the act of a liquid forming a level 
+surface. It's the idea that as knowledge is gained it spreads to form the free surface. 
+People can navaigate throughtout and just go where their curisosity takes them. When hearing
+just the words it can create a positive tone towards open source and sharing in general.
+
 ### What are the plans for Free Surface?
 
 Well the idea would be to kick of projects in a strategic way so that projects with an 
