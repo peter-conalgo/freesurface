@@ -33,9 +33,11 @@ Patents need to go away and the government needs to step back and let the new ge
 
 It is meant to be a metaphor when relating to the actual meaning of the event, and another methpor when 
 just looking at the words. In physics a free surface is the act of a liquid forming a level 
-surface. It's the idea that as knowledge is gained it spreads to form the free surface. 
-People can navaigate throughtout and just go where their curisosity takes them. When hearing
-just the words it can create a positive tone towards open source and sharing in general.
+surface. It's the idea that as knowledge is gained it spreads to form the free surface. This
+is in direct contrast to the act of trying to turn every idea into a comodity before it has 
+even truly proved that it has value. People can navaigate throughtout and just go where their 
+curisosity takes them. When hearing just the words it can create a positive tone towards open 
+source and sharing in general.
 
 ### What are the plans for Free Surface?
 
