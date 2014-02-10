@@ -71,8 +71,8 @@ At the same time it would also need to promote optimistic ideas that line up to 
 objective there may be at the time. A little bit of work to do there, but something like 
 [reddit](http://reddit.com) is a pretty good model for it.
 
-Head over to [pullup](http://pullup.herokuapp.com/) to see something like this in action 
-right now!
+Head over to [pullup](http://pullup.herokuapp.com/) to see the process of an app forming from
+nothing in action right now!
 
 ### What if I have no idea how to do anything but read this, and I want to do more??
 
