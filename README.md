@@ -58,6 +58,14 @@ It seems that the best course of action for free surface is to register as a non
 Canada.  We need legal help to accomplish this so that we can figure out if their is a 
 way to provide taxable benfits to compaines who embrace this methodology.
 
+### We need Psychologists!
+
+The word satisfaction gets used quite a lot right now in this document and a rough
+guess around how that all ties together.  We need psychologists to help us understand
+what really is the best way for a person to be productive.  What are the real
+important states of mind.  Should we find a way for more people to work from home
+and focus on thier families?
+
 ### We need investment
 
 If you are company that thinks you would like to pinoneer in an area like this, let us 
