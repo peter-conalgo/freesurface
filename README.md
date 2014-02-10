@@ -52,6 +52,17 @@ that just does not seem right.  Github is such a great resource for collaboratio
 excellent from a design perspective (very important). We would like to welcome scientists
 and economists to participate in open source with us!
 
+### We need Lawyers!
+
+It seems that the best course of action for free surface is to register as a non-profit in
+Canada.  We need legal help to accomplish this so that we can figure out if their is a 
+way to provide taxable benfits to compaines who embrace this methodology.
+
+### We need investment
+
+If you are company that thinks you would like to pinoneer in an area like this, let us 
+know!
+
 ### What sort of industries could this work in?
 
 As of right now, it's just a big fat guess, so we are saying ALL. I hear of a lot of
