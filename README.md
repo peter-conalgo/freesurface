@@ -41,7 +41,7 @@ Ideally we get some people who write code, to start engineering [something](idea
 add their ideas in an intuitive way and with algorithms that maintain solid democracy. 
 At the same time it would also need to promote optimistic ideas that line up to whatever 
 objective there may be at the time. A little bit of work to do there, but something like 
-reddit is a pretty good model for it.
+[reddit](http://reddit.com) is a pretty good model for it.
 
 Head over to [pullup](http://pullup.herokuapp.com/) to see something like this in action 
 right now!
