@@ -7,6 +7,7 @@ accelerate in technology and human well being.
 
 > Please note that this is just one perspective. This part will eventually go away, it's just a seed. What 
   really need is a more universal message that conveys to every day people how open source could help their lives.
+  We need professionals to help us cultivate what that message is. You ARE that person.
 
 People born between  the 70s - 90s have been brought into a world where too many of our brightest feel disenfranchised and struggle to see a future for themselves.  People born between the 40s - 60s are from a time where anyone who worked hard could find their way into a commodity that they could capitalize on. It's the thing that could universally provide satisfaction to anyone looking realize their potential.
 
