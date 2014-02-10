@@ -34,10 +34,12 @@ like to invest in an initiative that targets their talent and their best interes
 business wins because they get a chance at more inovation and a more satisfied workforce.
 
 ### How can I help?
-Start making github issues with what ever your brain can come up with. Ideally we get 
-some people who write code, to start making something that lets people who just want 
-add their ideas do so in an intuitive way and with algorithms that maintain solid democracy. 
-At the same time it would also need topromote optimistic ideas that line up to whatever 
+Start making github issues with what ever ideas your brain can come up with.  You can also 
+go a bit further and create a markdown file with your [idea](ideas).
+
+Ideally we get some people who write code, to start engineering [something](ideas/freesurface.md) that lets people
+add their ideas in an intuitive way and with algorithms that maintain solid democracy. 
+At the same time it would also need to promote optimistic ideas that line up to whatever 
 objective there may be at the time. A little bit of work to do there, but something like 
 reddit is a pretty good model for it.
 
