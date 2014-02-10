@@ -1,4 +1,9 @@
-# A single human being expressed this one day, which led to other things, which led to this project.
+## Current state of official hypothesis
+
+If culture at large adpoted the beneficial philosophies of open source progress would 
+accelerate in technology and human well being.
+
+### A single human being expressed this one day, which led to other things, which led to this project.
 
 > This part will eventually go away, it's just a seed.
 
