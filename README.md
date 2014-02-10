@@ -42,8 +42,10 @@ like to invest in an initiative that targets their talent and their best interes
 business wins because they get a chance at more inovation and a more satisfied workforce.
 
 ### How can I help?
-Start making github issues with what ever ideas your brain can come up with.  You can also 
-go a bit further and create a markdown file with your [idea](ideas).
+Start making github issues with what ever ideas your brain can come up with.  There is a lot
+of indivdual bias in this current text. It could also be distilled down quite a bit. One
+good plan is to fork this repo and send back pull requests. You can also go a bit further and 
+create a markdown file with your [idea](ideas).
 
 Ideally we get some people who write code, to start engineering [something](ideas/freesurface.md) that lets people
 add their ideas in an intuitive way and with algorithms that maintain solid democracy. 
