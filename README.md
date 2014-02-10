@@ -41,6 +41,24 @@ a charitable status.  The next step is to find a business or industry that would
 like to invest in an initiative that targets their talent and their best interests. The
 business wins because they get a chance at more inovation and a more satisfied workforce.
 
+### We need Scientists and Economists!
+
+At this point, everything written here is a giant brain dump by a single human being.  That
+will change over time.  One things that we notice is that the Science community could play
+a bigger role in open source.  The same thing goes for Economists.
+
+If you are in a lab using any tool or software that cost 8 million dollars for no good reason,
+that just does not seem right.  Github is such a great resource for collaboration, and it is
+excellent from a design perspective (very important). We would like to welcome scientists
+and economists to participate in open source with us!
+
+### What sort of industries could this work in?
+
+As of right now, it's just a big fat guess, so we are saying ALL. I hear of a lot of
+presidents of million dollar range companies complaining about how software seems to 
+get more expensive over time and less useful. Companies like Oracle spend more time
+acquiring new arms than they do perfecting the business software they offer.
+
 ### How can I help?
 Start making github issues with what ever ideas your brain can come up with.  There is a lot
 of indivdual bias in this current text. It could also be distilled down quite a bit. One
