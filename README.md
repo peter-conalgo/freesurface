@@ -3,6 +3,20 @@
 If culture at large adpoted the beneficial philosophies of open source, progress would 
 accelerate in technology and human well being.
 
+### What is open source?
+
+Today open source means a lot of things to a small group of passionate people. They would do anything 
+to make the day real where it just no longer made sense to keep ideas closed up behind walls. All of these
+people know that it amounts to awareness and showing its usefulness. They try very hard to form communities
+and shape some of the most amazing things you could ever imagine - should you imagine that way.
+
+The reality is that most of us don't, we know what the world is from where we sit. The truth is that
+no one person can know what the critical mass really wants.  We need to find a way to make the critical
+mass tell us what what open source needs to mean. We need to know what people really want from it,
+what would really make them take action to have it.
+
+This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
+
 ### A single human being expressed this one day, which led to other things, which led to this project.
 
 > Please note that this is just one perspective. This part will eventually go away, it's just a seed. What 
