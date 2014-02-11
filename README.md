@@ -1,3 +1,5 @@
+# Are we Free?
+
 ## Current state of official hypothesis
 
 If culture at large abandoned the concept of proprietary rights, progress would 
