@@ -21,6 +21,31 @@ By getting new curious folks to take part in it directly through the world's lar
 we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
 there who could easily pick up a few new habbits to take part in it all.
 
+
+### What is the real motivation here?
+
+It's evolving. It's still just me, so I will give some context about the person. At first I thought
+that I could hide behind words and create a tone that was void of indiviaul to speak to individuals.
+I don't think this does much more than patronize, at least so far I think this way.
+
+The reality is that I have benefited from open source and I want to share that with others.  I need
+to be honest right now and admit that I am not an altruist, the only book I ever finished as a young
+man was the "Fountainhead".  I loved it, thought about Howard Roark all the time.  What I loved was
+that he only wanted to do what he wanted to do.  It was not money, it was human potential.
+
+Eariler, I said a lot about the idea that we lack satisfaction in our jobs.  After more conversations,
+I think what we really lack today are human beings not being afforded a to realise their true potential.
+I think a lot of what goes on in the corporate world today is the exact thing that Roark dispised.
+Sure at the top their are folks diving deep down into their minds and having confidence to execute. Down
+at the bottom though, too many people are from day one treated like faceless cattle.
+
+There is a sea of young developers and tech folks out there who have largely abandoned the concept of
+proprietary rights.  They have seen the fruits of a world where a collective of individuals awknowkledge
+that more can happen if you don't hoard ideas and tie them to a single person.  Every idea they posess
+came from something the saw or read, open source let them follow the bread trail.  I want to know more
+about the science of why open source has happened the way it has, and what about it has made it help so
+much. I have theories.
+
 ### The idea
 
 The idea is simple. Patents must end. A new economy begins.  Very crazy we understand. Just asking people 
