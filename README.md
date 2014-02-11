@@ -9,11 +9,7 @@ accelerate in technology and the true potential of individuals.
 realize their true potential. Corporate bureaucracy is becoming more and more totalitarian
 and socialist in it's very structure.
 
-### What is the real motivation here?
-
-It's evolving. It's still just me, so I will give some context about the person. At first I thought
-that I could hide behind words and create a tone that was void of indiviaul to speak to individuals.
-I don't think this does much more than patronize, at least so far I think this way.
+### Objectivism is wrong about needing certain legal rights
 
 The reality is that I have benefited from open source and I want to share that with others.  I need
 to be honest right now and admit that I am not an altruist, the only book I ever finished as a young
