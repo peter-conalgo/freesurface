@@ -93,11 +93,10 @@ acquiring new arms than they do perfecting the business software they offer.
 
 ### Moral concerns?
 
-Would the workforce suddenly be forced to achieve success in an unsurmountable amount of ways 
-because of their many new reponsibitiles?
+> Would the workforce suddenly be forced to achieve success in an unsurmountable amount of ways 
+  because of their many new reponsibitiles?
 
-> Sounds like something to worry about if you are having a bad day. I say that we get the 
-  scientific answer to that question somehow before we go to far. Or just debate it.
+I say that we get the scientific answer to that question somehow before we go to far. Or just debate it.
 
 We encourage anyone to make issues on github which relate to any thought, no matter how
 funny they feel about it. Don't be shy, this is all about conversation recorded in 
