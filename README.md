@@ -11,6 +11,10 @@ and socialist in it's very structure.
 
 ### Objectivism is wrong about needing certain legal rights
 
+What is [objectivism](http://en.wikipedia.org/wiki/Objectivism_(Ayn_Rand))? It is basically Capitalism's equivalent of Karl Marx.
+Nobody hears about it because it sort of says that human nature is reality and socialism is denial.
+I still largely agree with that philosophy.
+
 The reality is that I have benefited from open source and I want to share that with others.  I need
 to be honest right now and admit that I am not an altruist, the only book I ever finished as a young
 man was the "Fountainhead".  I loved it, thought about Howard Roark all the time.  What I loved was
