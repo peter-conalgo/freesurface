@@ -58,13 +58,12 @@ control as well.  You will never look back!
 
 ### What is up with the name?
 
-It is meant to be a metaphor when relating to the actual meaning of the event, and another methpor when 
-just looking at the words. In physics a free surface is the act of a liquid forming a level 
-surface. It's the idea that as knowledge is gained it spreads to form the free surface. This
-is in direct contrast to the act of trying to turn every idea into a comodity before it has 
-even truly proved that it has real value. People can navaigate throughtout information and  go where their 
-curisosity takes them. When hearing just the words it can create a positive tone towards open 
-source and sharing in general.
+[Free Surface](http://en.wikipedia.org/wiki/Free_surface) is the event in physics that causes fluids to level.
+
+It is a metaphor for freedom. It is a human right to try what it is that they want to try.
+
+Think of it like the ocean, and how open that feels. Do we really need to be the one one owning the top of the mountain
+to realise our true potential?
 
 ### What are the plans for Free Surface?
 
