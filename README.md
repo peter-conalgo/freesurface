@@ -47,6 +47,8 @@ core philosophy. Every idea a person posesses came from something the saw or rea
 the bread trail.  I want to know more about the science of why open source has happened the way it has, 
 and what about it has made it help so much. I have theories.
 
+I personally would love the take on this from a person like [Alan Greenspan](http://en.wikipedia.org/wiki/Alan_Greenspan).
+
 ### The idea
 
 The idea is simple. Patents must end. A new economy begins. Very crazy we understand. Just asking people 
