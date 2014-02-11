@@ -156,14 +156,8 @@ of indivdual bias in this current text. It could also be distilled down quite a 
 good plan is to fork this repo and send back pull requests. You can also go a bit further and 
 create a markdown file with your [idea](ideas).
 
-Ideally we get some people who write code, to start engineering [something](ideas/freesurface.md) 
-that lets people add their ideas in an intuitive way and with algorithms that maintain solid 
-democracy. At the same time it would also need to promote optimistic ideas that line up to whatever 
-objective there may be at the time. A little bit of work to do there, but something like 
-[reddit](http://reddit.com) is a pretty good model for it.
-
 Head over to [pullup](http://pullup.herokuapp.com/) to see the process of an app forming from
-nothing in action right now!
+nothing in action right now! It's a great way to learn.
 
 ### What if I have no idea how to do anything but read this, and I want to do more??
 
