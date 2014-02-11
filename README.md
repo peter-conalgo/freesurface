@@ -76,10 +76,10 @@ to protect proprietary rights, so be it.  Open source is a potential example of 
 obsession can make you more productive. What we really need to ask is... should corporations have a say in
 this? Does it truly benefit the individual for a socialist structure to have an equal right?
 
-The reality is that most of us don't, we know what the world is from where we sit. The truth is that
-no one person can know what the critical mass really wants.  We need to find a way to make the critical
-mass tell us what what open source needs to mean. We need to know what people really want from it,
-what would really make them take action to have it.
+The reality is that most of us don't consider these things, we know what the world is from where we sit. 
+The truth is that no one person can know what the critical mass really wants and needs.  We need to find a 
+way to make the critical mass tell us what what open source needs to mean. We need to know what people 
+really want from it, what would really make them take action to have it.
 
 This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
 
