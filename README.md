@@ -87,6 +87,11 @@ By getting new curious folks to take part in it directly through the world's lar
 we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
 there who could easily pick up a few new habbits to take part in it all.
 
+### We need perspectives
+
+If you are a PHD philosopher or a dude who loves watching A&E, your perspective is needed because
+ultimately it needs to be tested against the hypothesis.
+
 ### We need ideas form Scientists and Economists
 
 At this point, everything written here is a giant brain dump by a single human being.  That
