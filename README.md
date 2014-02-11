@@ -56,6 +56,21 @@ has figured out a lot of ways to speed progress.  Outsiders can make use of a lo
 and it's not that hard.  So far this is just an idea in version control, YOU can learn how to use version
 control as well.  You will never look back!
 
+### What about Money??
+
+I love money, it's a guilty thing to admit to today, but I have to be honest. I am also not feeling guilty about admitting it. 
+The thing is I also love 
+lots of other stuff. It's all really my choice. I will continue to use it to get stuff that I want.
+I will continue to do stuff to get it. It does not matter who gives it to me, the objective philosophy
+is that human nature will make it all work out. It also implies that you have laws to ensure that is
+granted to each person no matter what.  They can fuck it up if they want to, but human nature is to 
+not do that. The thing to keep in mind is that this only a part of our nature. Science shows us that 
+things evolve, if you are objective, you should also use science to your advantage. I will do that right
+now as I objectivly have the right to do. People just want to be alive and do what what they want as they
+see fit.  We will collect and ditribute in many ways over time.  Right now we do the money thing, and
+it is very popular, looks like it's sticking around for a while. Why should their be laws to stifle 
+the evelution of human progress.
+
 ### What is up with the name?
 
 [Free surface](http://en.wikipedia.org/wiki/Free_surface) is the event in physics that causes fluids to level.
