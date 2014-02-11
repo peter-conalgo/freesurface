@@ -17,6 +17,10 @@ what would really make them take action to have it.
 
 This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
 
+By getting new curious folks to take part in it directly through the world's largest open source platform
+we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
+there who could easily pick up a few new habbits to take part in it all.
+
 ### A single human being expressed this one day, which led to other things, which led to this project.
 
 > Please note that this is just one perspective. This part will eventually go away, it's just a seed. What 
