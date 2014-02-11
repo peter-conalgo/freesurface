@@ -32,7 +32,7 @@ There is a sea of young developers and tech folks out there who have largely aba
 proprietary rights.  They have seen the fruits of a world where individuals awknowkledge
 that more can happen if you don't hoard root ideas and tie them to a single person. Sadly today the law
 looks at corporations as people as well.  Any true objectivist must be able to see how that defeats the
-core philosophy. Every idea a person posesses came from something the saw or read, open source let them follow 
+core philosophy. Every idea a person posesses came from something they saw or read, open source let them follow 
 the bread trail.  I want to know more about the science of why open source has happened the way it has, 
 and what about it has made it help so much. I have theories.
 
@@ -110,6 +110,10 @@ and economists to participate in open source with us!
 It seems that the best course of action for free surface is to register as a non-profit in
 Canada.  We need legal help to accomplish this so that we can figure out if their is a 
 way to provide taxable benfits to compaines who embrace this methodology.
+
+We also need to prove that this is a human right, whatever "this" is.  I am not advocating
+the name of the right be free surface.  I just wanted to name this thing something that 
+sounded cool and the image on wikipedia looks very inspiring.
 
 ### We need ideas from Psychologists
 
