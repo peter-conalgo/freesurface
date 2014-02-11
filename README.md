@@ -3,25 +3,6 @@
 If culture at large abandoned the concept of proprietary rights, progress would 
 accelerate in technology and human well being.
 
-### Is open source socialism or capitalism?
-
-Today open source means a lot of things to a small group of passionate people. They would do anything 
-to make the day real where it just no longer made sense to keep ideas closed up behind walls. All of these
-people know that it amounts to awareness and showing its usefulness. They try very hard to form communities
-and shape some of the most amazing things you could ever imagine - should you imagine that way.
-
-The reality is that most of us don't, we know what the world is from where we sit. The truth is that
-no one person can know what the critical mass really wants.  We need to find a way to make the critical
-mass tell us what what open source needs to mean. We need to know what people really want from it,
-what would really make them take action to have it.
-
-This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
-
-By getting new curious folks to take part in it directly through the world's largest open source platform
-we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
-there who could easily pick up a few new habbits to take part in it all.
-
-
 ### What is the real motivation here?
 
 It's evolving. It's still just me, so I will give some context about the person. At first I thought
@@ -53,6 +34,26 @@ commone sense.
 
 Perhaps the open source movement could learn a thing or two from objectivism and vice versa.
 I personally would love the take on this from a person like [Alan Greenspan](http://en.wikipedia.org/wiki/Alan_Greenspan).
+
+### Is open source socialism or capitalism?
+
+Today open source means a lot of things to a small group of passionate people. They would do anything 
+to make the day real where it just no longer made sense to keep ideas closed up behind walls. All of these
+people know that it amounts to awareness and showing its usefulness. They try very hard to form communities
+and shape some of the most amazing things you could ever imagine - should you imagine that way.
+
+The reality is that most of us don't, we know what the world is from where we sit. The truth is that
+no one person can know what the critical mass really wants.  We need to find a way to make the critical
+mass tell us what what open source needs to mean. We need to know what people really want from it,
+what would really make them take action to have it.
+
+This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
+
+By getting new curious folks to take part in it directly through the world's largest open source platform
+we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
+there who could easily pick up a few new habbits to take part in it all.
+
+
 
 ### The idea
 
