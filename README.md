@@ -1,4 +1,4 @@
-# Are we Free?
+# Dear Earth, Are we Free?
 
 ## Current state of official hypothesis
 
