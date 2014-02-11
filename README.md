@@ -71,6 +71,16 @@ see fit.  We will collect and ditribute in many ways over time.  Right now we do
 it is very popular, looks like it's sticking around for a while. Why should their be laws to stifle 
 the evelution of human progress.
 
+### What about Jobs??
+
+Good question. From an objective perspective I chose to do this to see if I could provoke people.  
+We could use open source platforms like this to talk about the eco system where people are just 
+naturally assuming this will work becasue they likey think objectively. I am person who thinks
+that it is not crazy to leave everything out in the open and take on whatever chaotic scrutiny
+the world throws at it.  I will learn how to use that to my advantage because I think objectively.
+I will learn how to potition myself so that it is my mind that creates value and have I ideas 
+about how that is possible.  No one has to do it that way either.  Let's just talk about it more.
+
 ### What is up with the name?
 
 [Free surface](http://en.wikipedia.org/wiki/Free_surface) is the event in physics that causes fluids to level.
