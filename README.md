@@ -3,7 +3,7 @@
 If culture at large adpoted the beneficial philosophies of open source, progress would 
 accelerate in technology and human well being.
 
-### What is open source?
+### Is open source socialism?
 
 Today open source means a lot of things to a small group of passionate people. They would do anything 
 to make the day real where it just no longer made sense to keep ideas closed up behind walls. All of these
