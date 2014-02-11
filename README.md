@@ -73,14 +73,9 @@ source and sharing in general.
 
 ### What are the plans for Free Surface?
 
-Well the idea would be to kick of projects in a strategic way so that projects with an 
-agreeable opportunity for success are started with. The first projects would be 
-geared towards finding tools or lack of tools that if replaced with an open 
-initiative could better those people and in effect, that industry.  The first major step is
-to go through the process of creating a non profit and researching how to get
-a charitable status.  The next step is to find a business or industry that would 
-like to invest in an initiative that targets their talent and their best interests. The
-business wins because they get a chance at more inovation and a more satisfied workforce.
+We want to ensure that an economy exists for future generations where individuals are
+afforded more freedom to realise their true potential. We want more people to think that
+it is time to evolve openly and make good use of what we have already created.
 
 ### We need ideas form Scientists and Economists
 
