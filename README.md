@@ -34,7 +34,8 @@ core philosophy. Every idea a person posesses came from something the saw or rea
 the bread trail.  I want to know more about the science of why open source has happened the way it has, 
 and what about it has made it help so much. I have theories.
 
-It's funny, I was really into the idea of objectivism for a long time.  Until I saw how many people who
+It's funny, I was really into the idea of objectivism for a long time. It even inspired me to get a tatoo
+that said "...ideas...", because that is what I took from it. Until I saw how many people who
 claim to think that way support all of this corporate mess we have today.  To me that is just a refusal to awknowledge
 commone sense.
 
