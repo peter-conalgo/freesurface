@@ -70,6 +70,12 @@ to make the day real where it just no longer made sense to keep ideas closed up 
 people know that it amounts to awareness and showing its usefulness. They try very hard to form communities
 and shape some of the most amazing things you could ever imagine - should you imagine that way.
 
+It would be true to say that open source is a by-product of individuals just trying to make the things they
+want to make.  As an example it shows that individuals need all freedom at all times. If individuals want
+to protect proprietary rights, so be it.  Open source is a potential example of how getting rid of that
+obsession can make you more productive. What we really need to ask is... should corporations have a say in
+this? Does it truly benefit the individual for a socialist structure to have an equal right?
+
 The reality is that most of us don't, we know what the world is from where we sit. The truth is that
 no one person can know what the critical mass really wants.  We need to find a way to make the critical
 mass tell us what what open source needs to mean. We need to know what people really want from it,
