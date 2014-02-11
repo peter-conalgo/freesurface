@@ -89,12 +89,6 @@ The truth is that no one person can know what the critical mass really wants and
 way to make the critical mass tell us what what open source needs to mean. We need to know what people 
 really want from it, what would really make them take action to have it.
 
-This project is a way for the world to just plain and simple say, MAKE THIS FOR US!
-
-By getting new curious folks to take part in it directly through the world's largest open source platform
-we may be able to get a few more perspectives wandering around here.  There are a lot of professionals out
-there who could easily pick up a few new habbits to take part in it all.
-
 ### We need perspectives
 
 If you are a PHD philosopher or a dude who loves watching A&E, your perspective is needed because
