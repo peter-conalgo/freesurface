@@ -1,6 +1,6 @@
 ## Current state of official hypothesis
 
-If culture at large adpoted the beneficial philosophies of open source, progress would 
+If culture at large abandoned the concept of proprietary rights, progress would 
 accelerate in technology and human well being.
 
 ### Is open source socialism or capitalism?
