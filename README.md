@@ -47,7 +47,7 @@ a charitable status.  The next step is to find a business or industry that would
 like to invest in an initiative that targets their talent and their best interests. The
 business wins because they get a chance at more inovation and a more satisfied workforce.
 
-### We need Scientists and Economists!
+### We need ideas form Scientists and Economists
 
 At this point, everything written here is a giant brain dump by a single human being.  That
 will change over time.  One things that we notice is that the Science community could play
@@ -58,15 +58,13 @@ that just does not seem right.  Github is such a great resource for collaboratio
 excellent from a design perspective (very important). We would like to welcome scientists
 and economists to participate in open source with us!
 
-### We need Lawyers!
+### We need ideas from Lawyers
 
 It seems that the best course of action for free surface is to register as a non-profit in
 Canada.  We need legal help to accomplish this so that we can figure out if their is a 
 way to provide taxable benfits to compaines who embrace this methodology.
 
-> Legal fees can be donated at Indiegogo [here](http://www.indiegogo.com/projects/free-surface-non-profit-registration-legal-work/x/6349072?show_todos=true).
-
-### We need Psychologists!
+### We need ideas from Psychologists
 
 The word satisfaction gets used quite a lot right now in this document and a rough
 guess around how that all ties together.  We need psychologists to help us understand
@@ -74,7 +72,7 @@ what really is the best way for a person to be productive.  What are the real
 important states of mind.  Should we find a way for more people to work from home
 and focus on thier families?
 
-### We need investment
+### We need want you to think about a new sort of investment
 
 If you are company that thinks they would like to pinoneer in an area like this, let us 
 know!
