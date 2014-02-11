@@ -3,7 +3,7 @@
 If culture at large abandoned the concept of proprietary rights, progress would 
 accelerate in technology and the true potential of individuals.
 
-### Current state of the mission statement
+## Current state of the mission statement
 
 "Free Surface" is an initiative designed to promote a free surface for individuals to 
 realize their true potential. Corporate bureaucracy is becoming more and more totalitarian
