@@ -58,7 +58,7 @@ control as well.  You will never look back!
 
 ### What is up with the name?
 
-[Free Surface](http://en.wikipedia.org/wiki/Free_surface) is the event in physics that causes fluids to level.
+[Free surface](http://en.wikipedia.org/wiki/Free_surface) is the event in physics that causes fluids to level.
 
 It is a metaphor for freedom. It is a human right to try what it is that they want to try.
 
