@@ -7,7 +7,7 @@ accelerate in technology and the true potential of individuals.
 
 "Free Surface" is an initiative designed to promote a free surface for individuals to 
 realize their true potential. Corporate bureaucracy is becoming more and more totalitarian
-and socoialist in it's very structure.
+and socialist in it's very structure.
 
 ### What is the real motivation here?
 
