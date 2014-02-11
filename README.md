@@ -40,11 +40,12 @@ Sure at the top their are folks diving deep down into their minds and having con
 at the bottom though, too many people are from day one treated like faceless cattle.
 
 There is a sea of young developers and tech folks out there who have largely abandoned the concept of
-proprietary rights.  They have seen the fruits of a world where a collective of individuals awknowkledge
-that more can happen if you don't hoard ideas and tie them to a single person.  Every idea they posess
-came from something the saw or read, open source let them follow the bread trail.  I want to know more
-about the science of why open source has happened the way it has, and what about it has made it help so
-much. I have theories.
+proprietary rights.  They have seen the fruits of a world where individuals awknowkledge
+that more can happen if you don't hoard root ideas and tie them to a single person. Sadly today the law
+looks at corporations as people as well.  Any true objectivist must be able to see how that defeats the
+core philosophy. Every idea they posess came from something the saw or read, open source let them follow 
+the bread trail.  I want to know more about the science of why open source has happened the way it has, 
+and what about it has made it help so much. I have theories.
 
 ### The idea
 
