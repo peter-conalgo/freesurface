@@ -43,7 +43,7 @@ There is a sea of young developers and tech folks out there who have largely aba
 proprietary rights.  They have seen the fruits of a world where individuals awknowkledge
 that more can happen if you don't hoard root ideas and tie them to a single person. Sadly today the law
 looks at corporations as people as well.  Any true objectivist must be able to see how that defeats the
-core philosophy. Every idea they posess came from something the saw or read, open source let them follow 
+core philosophy. Every idea a person posesses came from something the saw or read, open source let them follow 
 the bread trail.  I want to know more about the science of why open source has happened the way it has, 
 and what about it has made it help so much. I have theories.
 
