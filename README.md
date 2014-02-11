@@ -49,8 +49,15 @@ and what about it has made it help so much. I have theories.
 
 ### The idea
 
-The idea is simple. Patents must end. A new economy begins.  Very crazy we understand. Just asking people 
+The idea is simple. Patents must end. A new economy begins. Very crazy we understand. Just asking people 
 to really think hard about what value those concepts bring to them anymore.
+
+This project is meant to be a chance for anyone outside of this very small industry to take a crack at 
+some of the workflows that developers go through.  Devising a plan and direction works very much the same
+way as building software, or at least it could.  It's just that english is the syntax. The tech community
+has figured out a lot of ways to speed progress.  Outsiders can make use of a lot of these methods,
+and it's not that hard.  So far this is just an idea in version control, YOU can learn how to use version
+control as well.  You will never look back!
 
 ### What is up with the name?
 
