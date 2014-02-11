@@ -1,7 +1,7 @@
 ## Current state of official hypothesis
 
 If culture at large abandoned the concept of proprietary rights, progress would 
-accelerate in technology and human well being.
+accelerate in technology and the ture potential of individuals.
 
 ### What is the real motivation here?
 
