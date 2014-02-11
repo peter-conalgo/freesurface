@@ -34,7 +34,7 @@ man was the "Fountainhead".  I loved it, thought about Howard Roark all the time
 that he only wanted to do what he wanted to do.  It was not money, it was human potential.
 
 Eariler, I said a lot about the idea that we lack satisfaction in our jobs.  After more conversations,
-I think what we really lack today are human beings not being afforded a to realise their true potential.
+I think what we really lack today are human beings being afforded a good chance to realise their true potential.
 I think a lot of what goes on in the corporate world today is the exact thing that Roark dispised.
 Sure at the top their are folks diving deep down into their minds and having confidence to execute. Down
 at the bottom though, too many people are from day one treated like faceless cattle.
