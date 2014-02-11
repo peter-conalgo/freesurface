@@ -51,6 +51,7 @@ It's funny, I was really into the idea of objectivism for a long time.  Until I 
 claim to think that way support all of this corporate mess we have today.  To me that is just a refusal to awknowledge
 commone sense.
 
+Perhaps the open source movement could learn a thing or two from objectivism and vice versa.
 I personally would love the take on this from a person like [Alan Greenspan](http://en.wikipedia.org/wiki/Alan_Greenspan).
 
 ### The idea
