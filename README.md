@@ -39,7 +39,7 @@ source and sharing in general.
 ### What are the plans for Free Surface?
 
 Well the idea would be to kick of projects in a strategic way so that projects with an 
-agreeable opportunity for success are started with.  The first projects would be 
+agreeable opportunity for success are started with. The first projects would be 
 geared towards finding tools or lack of tools that if replaced with an open 
 initiative could better those people and in effect, that industry.  The first major step is
 to go through the process of creating a non profit and researching how to get
@@ -91,15 +91,27 @@ presidents of million dollar range companies complaining about how software seem
 get more expensive over time and less useful. Companies like Oracle spend more time
 acquiring new arms than they do perfecting the business software they offer.
 
+### Moral concerns?
+
+Would the workforce suddenly be forced to achieve success in an unsurmountable amount of ways 
+because of their many new reponsibitiles?
+
+> Sounds like something to worry about if you are having a bad day. I say that we get the 
+  scientific answer to that question somehow before we go to far. Or just debate it.
+
+We encourage anyone to make issues on github which relate to any thought, no matter how
+funny they feel about it. Don't be shy, this is all about conversation recorded in 
+history. Right out in the open.
+
 ### How can I help?
 Start making github issues with what ever ideas your brain can come up with.  There is a lot
 of indivdual bias in this current text. It could also be distilled down quite a bit. One
 good plan is to fork this repo and send back pull requests. You can also go a bit further and 
 create a markdown file with your [idea](ideas).
 
-Ideally we get some people who write code, to start engineering [something](ideas/freesurface.md) that lets people
-add their ideas in an intuitive way and with algorithms that maintain solid democracy. 
-At the same time it would also need to promote optimistic ideas that line up to whatever 
+Ideally we get some people who write code, to start engineering [something](ideas/freesurface.md) 
+that lets people add their ideas in an intuitive way and with algorithms that maintain solid 
+democracy. At the same time it would also need to promote optimistic ideas that line up to whatever 
 objective there may be at the time. A little bit of work to do there, but something like 
 [reddit](http://reddit.com) is a pretty good model for it.
 
@@ -127,7 +139,9 @@ all designed to help kids explore these concepts and turn them into things.  It'
 more or less. We always hear of people moving to new countries and learning new languages through
 children's literature.  Same idea!
 
-Shared Scratch projects include the source files to allow other 'kids' to download and extend, and we encourage you to do just this, but be mindful to avoid using profanity when naming objects in case you feel compelled to share back.
+Shared Scratch projects include the source files to allow other 'kids' to download and extend, and 
+we encourage you to do just this, but be mindful to avoid using profanity when naming objects in 
+case you feel compelled to share back.
 
 ### Does Free Surface have anything on the go?
 
