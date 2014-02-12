@@ -11,4 +11,18 @@ on earth.  The thing is, as an objective minded person I need to try to prevent 
 
 There is a global genenerational shift occuring right now.  I am doing my very best to seise the opportunity to shift objectionable mindsets.
 
-People need to give a fuck and build a future that means something to us.
+### Politics of today is focused on an outdated view of capitalism
+
+We need capitalisim >2000
+
+We need the original motitvations back. We need to know there is a way and want to make it real. Capitalism took off
+because it focused on personal liberties more than anything had before.  It inspired people who were escaping opression.
+It was worth dying for to many people. 
+
+People 100 years ago didn't think, "I sure hope everything ends up being full of endless bureaucracy".
+
+Here is a list of my made assumptions about what the critical mass did not think 100 years ago:
+
+- "I sure hope everything ends up being full of endless bureaucracy"
+- "I am totally cool if a few companies become indivduals with a mindless goal of thinking the same thing over and over again, and have the right to own everything should they choose to."
+
