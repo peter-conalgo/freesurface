@@ -93,8 +93,7 @@ about how that is possible.  No one has to do it that way either.  Let's just ta
 
 It is a metaphor for freedom. It is a human right to try what it is that they want to try.
 
-Think of it like the ocean, and how open that feels. Do we really need to be the one one owning the top of the mountain
-to realise our true potential?
+Think of it like the ocean, and how open that feels. Do we really need to be the one at the top of the mountain?
 
 ### What are the plans for Free Surface?
 
