@@ -29,3 +29,7 @@ Here is a list of my made assumptions about what the critical mass did not think
 ### Would I run for government?
 
 Hell no! Well I guess if it meant that my main job was to make sure that this direction was secured.  I think we do need to remove indivduals from situations of power where they could impact anothers pursuit of hapiness.
+
+### Could open source be governement?
+
+I honestly can think of no other way to secure pure democracy.
