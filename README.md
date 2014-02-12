@@ -56,6 +56,12 @@ has figured out a lot of ways to speed progress.  Outsiders can make use of a lo
 and it's not that hard.  So far this is just an idea in version control, YOU can learn how to use version
 control as well.  You will never look back!
 
+### We need industry to ask themselves if what they have works
+
+If you are company that thinks they would like to pinoneer in an area like this, let us 
+know! Does your current business centric software really do what it needs to for your
+staff?
+
 ### What about Money??
 
 I love money, it's a guilty thing to admit to today, but I have to be honest. I am also not feeling guilty about admitting it. 
@@ -113,12 +119,6 @@ The reality is that most of us don't consider these things, we know what the wor
 The truth is that no one person can know what the critical mass really wants and needs.  We need to find a 
 way to make the critical mass tell us what what open source needs to mean. We need to know what people 
 really want from it, what would really make them take action to have it.
-
-### We need industry to ask themselves if what they have works
-
-If you are company that thinks they would like to pinoneer in an area like this, let us 
-know! Does your current business centric software really do what it needs to for your
-staff?
 
 ### We need perspectives
 
