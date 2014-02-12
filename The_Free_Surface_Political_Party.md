@@ -32,4 +32,4 @@ Hell no! Well I guess if it meant that my main job was to make sure that this di
 
 ### Could open source be governement?
 
-I honestly can think of no other way to secure pure democracy.
+I honestly can think of no other way to secure pure democracy. [Reddit](http://www.reddit.com) is a good example of pure democracy, we should model it after that.
