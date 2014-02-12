@@ -1,4 +1,5 @@
 # Dear Earth, Are we Free?
+(Feel free to fork this and do whatever your free will desires)
 
 ## Current state of official hypothesis
 
