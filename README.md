@@ -114,6 +114,12 @@ The truth is that no one person can know what the critical mass really wants and
 way to make the critical mass tell us what what open source needs to mean. We need to know what people 
 really want from it, what would really make them take action to have it.
 
+### We need industry to ask themselves if what they have works
+
+If you are company that thinks they would like to pinoneer in an area like this, let us 
+know! Does your current business centric software really do what it needs to for your
+staff?
+
 ### We need perspectives
 
 If you are a PHD philosopher or a dude who loves watching A&E, your perspective is needed because
@@ -147,11 +153,6 @@ guess around how that all ties together.  We need psychologists to help us under
 what really is the best way for a person to be productive.  What are the real
 important states of mind.  Should we find a way for more people to work from home
 and focus on thier families?
-
-### We need want you to think about a new sort of investment
-
-If you are company that thinks they would like to pinoneer in an area like this, let us 
-know!
 
 ### We need publicity
 
